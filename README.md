@@ -1,5 +1,7 @@
 # Inflation Rate Prediction Using Time Series Deep Learning
 
+![Time Series](time series.jpeg)
+
 This project aims to develop an interactive forecasting system for the **Inflation Rate** using a **Time Series Deep Learning** model. The user interface (GUI) is built using **Streamlit** to facilitate the visualization of historical data and perform predictions in real-time.
 
 [Image of a time series prediction graph showing historical data and future forecast]
